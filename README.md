@@ -14,3 +14,5 @@ Challenge: Improving user navigation flow for mobile devices.
 
 
 Solution: Engineered a Click-Outside-to-Close logic for the mobile sidebar, utilizing DOM node containment checks to improve accessibility and user experience.
+
+Link 🔗: https://hayatkhan612.github.io/Nexus-SaaS-Dashboard/
